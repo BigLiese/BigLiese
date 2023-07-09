@@ -1,4 +1,4 @@
- 👋 Hi, I’m @BigLiese, you can also find me in LinkdeIn: *https://www.linkedin.com/in/cong-lu/* or  reach me here: *1300455270@qq.com*
+ 👋 Hi, I’m @BigLiese, you can also find me in LinkdeIn: *https://www.linkedin.com/in/cong-lu/* or  reach me here: *LieseLu@proton.me*
 
 ### About me
 
