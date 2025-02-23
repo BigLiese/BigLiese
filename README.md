@@ -22,7 +22,7 @@ Without a doubt, I take every opportunity to travel. I have already **visited mo
 | Target    | Daily Routine |
 | --------- | ----------- |
 | ✨seek an onsite front-end job, preferably in Germany | try to build a React and TypeScript project (done, I did 6 react projects til now) |
-| ⚡build my own YouTube channel to share my work and life story (tried but seems not focusing too much on that) | learn languages (English, Spanish, German, Japanese) Keep learning Spanish and German over one year, can read simple article now)|
+| ⚡build my own YouTube channel to share my work and life story (tried but seems not focusing too much on that) | learn languages (English, Spanish, German, Japanese) (Keep learning Spanish and German from 2023, can read simple article now)|
 
 
 <!---
