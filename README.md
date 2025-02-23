@@ -4,7 +4,7 @@
 
 ## 👀 Working Experience
 
-This is my **third year being a Front-end Developer** in South China.After becoming a front-end engineer, I have completed several projects and read numerous algorithm books, blogs, and courses. However, the more I learn, the more I realize how much there is to know and how much I still have to learn. Ergo，my principle and goal are to persist in learning and finding more **concise and efficient ways to write code**.
+This is my **fourth year being a Front-end Developer** in South China.After becoming a front-end engineer, I have completed several projects and read numerous algorithm books, blogs, and courses. However, the more I learn, the more I realize how much there is to know and how much I still have to learn. Ergo，my principle and goal are to persist in learning and finding more **concise and efficient ways to write code**.
 
 In my previous positions, I have honed my skills in JavaScript, Typescript, React.js, Vue.js and SCSS. I am also experienced using Jest testing tools and debugging code to ensure high-quality deliverables. 
 
