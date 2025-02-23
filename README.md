@@ -4,9 +4,9 @@
 
 ## 👀 Working Experience
 
-This is my **second year being a Front-end Developer** in South China.After becoming a front-end engineer, I have completed several projects and read numerous algorithm books, blogs, and courses. However, the more I learn, the more I realize how much there is to know and how much I still have to learn. Ergo，my principle and goal are to persist in learning and finding more **concise and efficient ways to write code**.
+This is my **third year being a Front-end Developer** in South China.After becoming a front-end engineer, I have completed several projects and read numerous algorithm books, blogs, and courses. However, the more I learn, the more I realize how much there is to know and how much I still have to learn. Ergo，my principle and goal are to persist in learning and finding more **concise and efficient ways to write code**.
 
-In my previous positions, I have honed my skills in JavaScript, Typescript, Vue.js, and SCSS. I am also experienced in testing and debugging code to ensure high-quality deliverables. 
+In my previous positions, I have honed my skills in JavaScript, Typescript, React.js, Vue.js and SCSS. I am also experienced using Jest testing tools and debugging code to ensure high-quality deliverables. 
 
 ## 💞️ My Interests
 
@@ -21,8 +21,8 @@ Without a doubt, I take every opportunity to travel. I have already **visited mo
 
 | Target    | Daily Routine |
 | --------- | ----------- |
-| ✨seek an onsite front-end job, preferably in Germany | try to build a React and TypeScript project |
-| ⚡build my own YouTube channel to share my work and life story | learn languages (English, Spanish, German, Japanese) |
+| ✨seek an onsite front-end job, preferably in Germany | try to build a React and TypeScript project (done, I did 6 react projects til now) |
+| ⚡build my own YouTube channel to share my work and life story (tried but seems not focusing too much on that) | learn languages (English, Spanish, German, Japanese) Keep learning Spanish and German over one year, can read simple article now)|
 
 
 <!---
